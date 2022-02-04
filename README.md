@@ -2,7 +2,7 @@
 <img src="https://media4.giphy.com/media/jt7bAtEijhurm/giphy.gif" alt="GIF" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="Faza-Bot" src="https://img.shields.io/badge/Ichizza Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Faza-Bot" src="https://img.shields.io/badge/Faza Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/xdlyy404"><img title="Author" src="https://img.shields.io/badge/Author-Fadly%20ID-orange.svg?style=for-the-badge&logo=github"></a>
